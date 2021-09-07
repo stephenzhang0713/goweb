@@ -14,7 +14,7 @@ JumpLoop:
 	}
 
 	var i int
-	for i <= 10{
+	for i <= 10 {
 		fmt.Println(i)
 		i++
 	}
