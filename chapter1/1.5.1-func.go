@@ -19,5 +19,5 @@ func compute(x, y int) (int, int) {
 func main() {
 	arr := []int{1, 2, 3, 4, 3}
 	fmt.Println(min(arr))
-	fmt.Println(compute(6,8))
+	fmt.Println(compute(6, 8))
 }
