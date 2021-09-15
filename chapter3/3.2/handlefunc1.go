@@ -9,14 +9,14 @@ type handle1 struct {
 }
 
 func (h1 *handle1) ServeHTTP(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprintf(w, "hi,handle1")
+	fmt.Fprintf(w, "hi1,handle1")
 }
 
 type handle2 struct {
 }
 
 func (h2 *handle2) ServeHTTP(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprintf(w, "hi,handle2")
+	fmt.Fprintf(w, "hi1,handle2")
 }
 
 func main() {
