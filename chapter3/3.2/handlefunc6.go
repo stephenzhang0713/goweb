@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-	http.HandleFunc("/", log(index))
+	http.HandleFunc("/", log1(index))
 	http.ListenAndServe(":8087", nil)
 }
 
@@ -23,7 +23,7 @@ func index(w http.ResponseWriter, r *http.Request) {
 	fmt.Fprintf(w, "hello index!")
 }
 
-func log(h http.HandlerFunc) http.HandlerFunc {
+func log1(h http.HandlerFunc) http.HandlerFunc {
 	return func(w http.ResponseWriter, r *http.Request) {
 		fmt.Printf(" time: %s | handlerfunc:%s\n", time.Now().String(), runtime.FuncForPC(reflect.ValueOf(h).Pointer()).Name())
 		h(w, r)
