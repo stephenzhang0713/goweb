@@ -72,8 +72,8 @@ func main() {
 	user4.Name = "James"
 
 	user5 := BeegoUser{}
-	user5.Id=12
-	user5.Name="Wade"
+	user5.Id = 12
+	user5.Name = "Wade"
 	_, err3 := o.Update(&user4)
 	_, err4 := o.Update(&user5)
 	if err3 != nil || err4 != nil {
