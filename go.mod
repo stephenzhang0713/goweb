@@ -7,8 +7,8 @@ require (
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/julienschmidt/httprouter v1.3.0
-	github.com/mitchellh/mapstructure v1.3.3
-	go.mongodb.org/mongo-driver v1.7.2
+	github.com/mitchellh/mapstructure v1.4.2
+	go.mongodb.org/mongo-driver v1.7.4
 	google.golang.org/grpc v1.42.0
 	google.golang.org/protobuf v1.27.1
 	gorm.io/driver/mysql v1.2.0
@@ -17,12 +17,12 @@ require (
 
 require (
 	github.com/go-stack/stack v1.8.0 // indirect
-	github.com/golang/protobuf v1.5.2 // indirect
+	github.com/golang/protobuf v1.5.0 // indirect
 	github.com/golang/snappy v0.0.1 // indirect
 	github.com/hashicorp/golang-lru v0.5.4 // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/jinzhu/now v1.1.2 // indirect
-	github.com/klauspost/compress v1.9.5 // indirect
+	github.com/klauspost/compress v1.13.6 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/shiena/ansicolor v0.0.0-20151119151921-a422bbe96644 // indirect
 	github.com/xdg-go/pbkdf2 v1.0.0 // indirect
