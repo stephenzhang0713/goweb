@@ -12,5 +12,5 @@ func main() {
 		fmt.Printf("打开文件出错:%v\n", err)
 	}
 	fmt.Printf("%v\n", content)
-	fmt.Printf("%v\n",string(content))
+	fmt.Printf("%v\n", string(content))
 }
