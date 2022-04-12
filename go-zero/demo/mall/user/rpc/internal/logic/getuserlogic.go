@@ -6,7 +6,7 @@ import (
 	"goweb/go-zero/demo/mall/user/rpc/internal/svc"
 	"goweb/go-zero/demo/mall/user/rpc/user"
 
-	"github.com/tal-tech/go-zero/core/logx"
+	"github.com/zeromicro/go-zero/core/logx"
 )
 
 type GetUserLogic struct {

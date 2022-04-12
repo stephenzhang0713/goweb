@@ -10,7 +10,7 @@ var pool *redis.Pool
 func init() {
 	pool = &redis.Pool{
 		Dial: func() (redis.Conn, error) {
-			return redis.Dial("tcp", "121.4.147.32:6379", redis.DialPassword("zah56641189"))
+			return redis.Dial("tcp", "localhost:6379", redis.DialPassword("zah56641189"))
 		},
 		MaxIdle:     16,
 		MaxActive:   1024,
