@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="UnattendedHostPersistenceState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="451" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/chapter8/8.1/gin-middleware.go" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/go-zero/demo/greet/internal/types/types.go" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="378" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/go-zero/demo/mall/order/api/order.go" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="98" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/go-zero/demo/greet/internal/config/config.go" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="98" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/go-zero/demo/mall/order/api/internal/config/config.go" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="13" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/go-zero/demo/greet/internal/logic/greetlogic.go" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="63" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/go-zero/demo/mall/user/rpc/userclient/user.go" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="2088" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/playground/client-go.go" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/playground/mapstructure.go" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="4476" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/go.mod" />
+        </OpenedFileInfo>
+      </list>
+    </option>
+  </component>
+</project>
